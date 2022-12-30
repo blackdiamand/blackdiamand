@@ -4,5 +4,5 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=blackdiamand&show_icons=true&theme=dark&locale=en" alt="blackdiamand" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=blackdiamand&theme=dark" alt="blackdiamand" /></p>
 </br>
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/blackdiamand/blackdiamand/blob/output/github-contribution-grid-snake.svg)
 </html>
