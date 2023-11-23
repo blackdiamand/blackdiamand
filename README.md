@@ -5,6 +5,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=blackdiamand&theme=dark" alt="blackdiamand" /></p>
 </br>
 
-![Snake animation](https://github.com/blackdiamand/blackdiamand/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/blackdiamand/blackdiamand/output/github-contribution-grid-snake.svg)
 
 </html>
